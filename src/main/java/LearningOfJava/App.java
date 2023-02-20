@@ -1,6 +1,5 @@
 package LearningOfJava;
 
-import static jdk.internal.logger.DefaultLoggerFinder.SharedLoggers.system;
 
 /**
  * Hello world!
@@ -9,7 +8,12 @@ import static jdk.internal.logger.DefaultLoggerFinder.SharedLoggers.system;
 public class App 
 {
     public static void main( String[] args )
-    {System.out.println( "Hello World!" );
-     System.out.println( "Hellow Thangavel");}
+    {
+        System.out.println( "Hello World!" );
+     System.out.println( "Hellow Thangavel");
+     float Height=165.5f;
+     short myheight=(short) Height;
+        System.out.println("My  height" +Height+ "my new height" +myheight );
+    }
 
 }
