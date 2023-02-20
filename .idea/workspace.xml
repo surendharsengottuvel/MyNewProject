@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875ec3c7-645d-47c6-aa74-904590c5022f" name="Changes" comment="Initial commit">
+    <list default="true" id="875ec3c7-645d-47c6-aa74-904590c5022f" name="Changes" comment="sample">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LearningOfJava/Scannerclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LearningOfJava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LearningOfJava/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Scannerclass">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LearningOfJava.App" />
       <module name="MyNewProject" />
@@ -59,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scannerclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearningOfJava.Scannerclass" />
+      <module name="MyNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearningOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scannerclass" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -81,12 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676873211688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sample">
+      <created>1676875618489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676875618489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iinitial commit" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="sample" />
   </component>
 </project>
